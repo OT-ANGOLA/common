@@ -432,7 +432,7 @@ public class ConfigConstants {
     
     /** Community name */
     public static final String COMMUNITY_NAME = "community-name";
-    
-    /** Community name */
-    public static final String DOCUMENTS_FOR_ISSUING_CCO = "docs-for-issuing-cco";
+ 
+    /** URL to the workflow reports, hosted on the reporting server */
+    public static final String WORKFLOW_REPORTS_URL = "workflow_reports_url";
 }
